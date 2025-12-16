@@ -1,0 +1,29 @@
+{
+    "name": "Növény locsoló alkalmazás - Kliensoldali rendszerek HF",
+    "short_name": "Plant Watering App",
+    "start_url": "./?mode=pwa",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot-desktop.png",
+            "sizes": "1918x1026",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "App Login Screen"
+        },
+        {
+            "src": "screenshot-mobile.png",
+            "sizes": "954x1021",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "App Login Screen"
+        }
+    ]
+}

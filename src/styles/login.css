@@ -1,0 +1,22 @@
+.Login {
+    align-self: start;
+    /* Felülre igazítjuk a szülőben */
+    justify-self: center;
+    /* Vízszintesen középre igazítjuk a szülőben */
+    justify-items: center;
+    /* A gyerekeit vízszintesen középre igazítjuk */
+    gap: 8px;
+
+.logo {
+  font-size: 256px;
+  color: rgb(199, 255, 229); /* főszín */
+  text-shadow:
+    0 0 5px rgb(34, 238, 143),
+    0 0 10px rgb(34, 238, 143),
+    0 0 20px rgb(34, 238, 143),
+    0 0 40px rgb(34, 238, 143),
+    0 0 80px rgb(34, 238, 143);
+}
+
+
+}
